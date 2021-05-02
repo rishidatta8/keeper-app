@@ -104,3 +104,8 @@ form.create-note button {
   cursor: pointer;
   outline: none;
 }
+
+.react-slidedown.my-dropdown-slidedown {
+  transition-duration: 0.3s;
+}
+
